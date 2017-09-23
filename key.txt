@@ -1,3 +1,7 @@
 git 常用命令
 1 克隆到本地
 2 提交
+3 git add . # 将所有修改过的工作文件提交暂存区
+4 $ git commit -m 
+$ git commit --amend可以在已经commit基础上，将第二次commit合并称一次，后面的会覆盖前面的。
+5 git push # push所有分支
